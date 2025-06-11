@@ -1,7 +1,5 @@
 # 🌍 Análise Histórica dos Gastos com Turismo na Europa (1996–2011)
 
-![Capa do projeto](capa_projeto.jpg)
-
 ## 📌 Sobre o projeto
 Este notebook analisa os dados de turismo na Europa entre 1996 e 2011 com foco nos gastos realizados em diferentes países, tipos de viagem e hospedagem. Os dados foram obtidos do Eurostat.
 

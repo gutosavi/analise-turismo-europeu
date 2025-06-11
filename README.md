@@ -18,7 +18,7 @@ Este notebook analisa os dados de turismo na Europa entre 1996 e 2011 com foco n
 
 ## 📁 Organização
 - `análise_turismo_europeu.ipynb`: Notebook principal com todo o processo de análise.
-- `dados/`: Pasta contendo o arquivo original em CSV.
+- `dados/`: Pasta contendo o arquivo original em TSV.
 - `capa-projeto.jpg`: Imagem ilustrativa do projeto.
 
 ## 💼 Autor
